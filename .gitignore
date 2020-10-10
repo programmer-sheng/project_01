@@ -1,0 +1,4 @@
+#忽略bulid文件夹
+bulid
+#忽略 doc文件夹下的.pdf结尾的文件
+doc/*.pdf
